@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="major">
+        <item>국어교육과</item>
+        <item>수학교육과</item>
+        <item>영어교육과</item>
+        <item>음악교육과</item>
+        <item>미술교육과</item>
+        <item>체육교육과</item>
+        <item>역사교육과</item>
+        <item>지리교육과</item>
+        <item>가정교육과</item>
+        <item>컴퓨터교육과</item>
+    </string-array>
+
+</resources>
